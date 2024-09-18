@@ -1,4 +1,3 @@
-# Langchain-Demo-With-Gemma-Model
 # Langchain-Demo-with-Gemma-Model
 Langchain Demo with Gemma Model is a question-answering app using Streamlit and the gemma2:2b model from Ollama. It leverages Langchain for prompt management and includes Langsmith Tracking for real-time logging. Users can input questions and receive intelligent responses
 
